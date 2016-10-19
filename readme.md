@@ -13,3 +13,4 @@ All ads are being stored to a database.
 
 * Flask
 * PyMysql
+* beautifulsoup4
